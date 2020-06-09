@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Dev\\tutorial\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\a7fe0b9bb9a34c5a3292ead9485be145\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,280,404,470,535,626,741",
+                        "endColumns": "76,123,65,64,90,114,69",
+                        "endOffsets": "279,403,469,534,625,740,810"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "325,406,534,604,673,768,887",
+                        "endColumns": "80,127,69,68,94,118,73",
+                        "endOffsets": "401,529,599,668,763,882,956"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\2f1f6dbacf03f2de05dffbb1861bb564\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "219",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "219",
+                        "endOffsets": "320"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\f7a14131b1948ce336f8895bf2097bae\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "961",
+                        "endColumns": "100",
+                        "endOffsets": "1057"
+                    }
+                }
+            ]
+        }
+    ]
+}

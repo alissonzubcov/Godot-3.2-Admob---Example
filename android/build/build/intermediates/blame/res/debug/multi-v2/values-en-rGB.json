@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Dev\\tutorial\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\2f1f6dbacf03f2de05dffbb1861bb564\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "196",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\a7fe0b9bb9a34c5a3292ead9485be145\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,270,371,435,500,579,673",
+                        "endColumns": "66,100,63,64,78,93,64",
+                        "endOffsets": "269,370,434,499,578,672,737"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "302,373,478,546,615,698,796",
+                        "endColumns": "70,104,67,68,82,97,68",
+                        "endOffsets": "368,473,541,610,693,791,860"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\f7a14131b1948ce336f8895bf2097bae\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "865",
+                        "endColumns": "100",
+                        "endOffsets": "961"
+                    }
+                }
+            ]
+        }
+    ]
+}

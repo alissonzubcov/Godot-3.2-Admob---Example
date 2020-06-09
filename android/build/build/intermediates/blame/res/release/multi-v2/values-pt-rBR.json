@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Dev\\tutorial\\android\\build\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\a7fe0b9bb9a34c5a3292ead9485be145\\res\\values-pt-rBR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,273,396,461,526,606,715",
+                        "endColumns": "69,122,64,64,79,108,73",
+                        "endOffsets": "272,395,460,525,605,714,788"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "309,383,510,579,648,732,845",
+                        "endColumns": "73,126,68,68,83,112,77",
+                        "endOffsets": "378,505,574,643,727,840,918"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\f7a14131b1948ce336f8895bf2097bae\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "923",
+                        "endColumns": "100",
+                        "endOffsets": "1019"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\2f1f6dbacf03f2de05dffbb1861bb564\\res\\values-pt-rBR\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Dev\\tutorial\\android\\build\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\2f1f6dbacf03f2de05dffbb1861bb564\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\f7a14131b1948ce336f8895bf2097bae\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "817",
+                        "endColumns": "100",
+                        "endOffsets": "913"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\a7fe0b9bb9a34c5a3292ead9485be145\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,264,337,397,457,521,591",
+                        "endColumns": "60,72,59,59,63,69,61",
+                        "endOffsets": "263,336,396,456,520,590,652"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "339,404,481,545,609,677,751",
+                        "endColumns": "64,76,63,63,67,73,65",
+                        "endOffsets": "399,476,540,604,672,746,812"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alissonzubcov\\.gradle\\caches\\transforms-2\\files-2.1\\3ff7025b0cfea87550ded63009c588fc\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "263",
+                        "endColumns": "75",
+                        "endOffsets": "334"
+                    }
+                }
+            ]
+        }
+    ]
+}
